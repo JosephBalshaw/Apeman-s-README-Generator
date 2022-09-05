@@ -34,6 +34,9 @@ function generateMarkdown(answers) {
    ## Useage
    ${answers.useage}
 
+   ## Installation
+   ${answers.installation}
+
    ## Contributions
    ${answers.contribution}
 
